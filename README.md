@@ -2,6 +2,13 @@
 
 Um projeto web simples para testar as funcionalidades do servidor web Apache + PHP + MySq
 
-Este projeto também visa o estudo do GIT
+## Sobre mim
 
-Novas informações são adicionadas
+Meu nome é Matheus Pontieri Resende
+
+matheus151100@gmail.com
+
+## Contatos
+
+- Instagram: [@matheuspontieri](http://instagram.com/matheuspontieri)
+
